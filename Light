@@ -1,0 +1,48 @@
+!
+name: "Material Design Light"
+time: 1565477276
+author: "WSTxda"
+@
+lightStatusBar, replaceShadowsWithSeparators, wallpaperUsageId: 1
+parentTheme: 11
+wallpaperId: 0
+#
+attachContact, attachFile, attachInlineBot, attachLocation, attachPhoto, bubbleIn_outline, bubbleIn_textLinkPressHighlight, bubbleOut_background, bubbleOut_outline, circleButtonChat, fillingPressed, introSection, iv_linkHighlight, messageSelection, playerCoverPlaceholder, seekEmpty, sliderInactive, textLinkPressHighlight, textSelectionHighlight, waveformInactive, wp_circlesBlue: #E4EFFC
+attachText, avatarSavedMessages, badge, bubble_button, bubble_buttonRipple, bubble_date, bubble_date_noWallpaper, bubble_messageCheckOutlineNoWallpaper, bubble_unreadText, bubbleIn_progress, bubbleIn_textLink, bubbleOut_chatVerticalLine, bubbleOut_file, bubbleOut_inlineOutline, bubbleOut_inlineText, bubbleOut_messageAuthor, bubbleOut_progress, bubbleOut_textLink, bubbleOut_ticks, bubbleOut_ticksRead, bubbleOut_waveformActive, chatListAction, chatSendButton, checkActive, circleButtonChatIcon, circleButtonNewChannel, circleButtonNewChat, circleButtonNewGroup, circleButtonNewSecret, circleButtonOverlay, circleButtonRegular, circleButtonTheme, controlActive, file, fileAttach, fileYellow, fillingPositive, headerBarCallActive, headerButton, headerTabActive, headerTabActiveText, iconActive, inlineIcon, inlineOutline, inlineText, inputActive, introSectionActive, iv_blockQuoteLine, iv_pageTitle, messageAuthor, messageSwipeBackground, messageVerticalLine, notification, notificationPlayer, passcodeIcon, playerButtonActive, playerCoverIcon, profileSectionActive, profileSectionActiveContent, progress, promo, sectionedScrollBar, sectionedScrollBarActive, seekDone, sliderActive, textLink, textNeutral, textSearchQueryHighlight, ticks, ticksRead, togglerActive, togglerPositive, unreadText, waveformActive: #1A73E8
+avatarInactive, badgeMutedText, bubbleIn_text, bubbleOut_text, headerText, iv_blockQuote, iv_header, iv_pageSubtitle, text, themeBlackWhite: #202124
+background, bubble_overlay, bubbleOut_inlineIcon, chatKeyboard, chatKeyboardButton, chatSeparator, circleButtonOverlayIcon, headerBackground, headerBarCallMuted, iv_separator, passcode, themeWhiteBlack: #FFF
+background_icon, chatListMute, controlInactive, icon, iconLight, playerButton: #5F6368
+background_text, background_textLight, headerLightIcon, headerLightText, headerTabInactiveText, iv_caption, iv_headerIcon, iv_pageFooter, iv_pullQuote, passcodeText, statusBarContent, textLight, textPlaceholder: #757575
+badgeFailed, circleButtonNegative, fillingNegative, headerRemoveBackgroundHighlight, iconNegative, inputNegative, textNegative, togglerNegative: #E52929
+badgeMuted, bubbleIn_background, bubbleOut_pressed, sectionedScrollBarActiveContent: #F1F3F4
+bubble_button_noWallpaper, bubble_buttonRipple_noWallpaper, bubble_mediaOverlay, bubble_mediaReply, bubble_mediaReply_noWallpaper, bubble_mediaTime, bubble_mediaTime_noWallpaper, bubble_overlay_noWallpaper, bubble_unread_noWallpaper: #DFDFDF
+bubble_buttonText_noWallpaper, bubble_mediaOverlayText, bubble_mediaReplyText, bubble_mediaTimeText, bubble_mediaTimeText_noWallpaper, bubble_overlayText, bubble_overlayText_noWallpaper, bubble_unreadText_noWallpaper: #4B4B4B
+bubble_chatBackground, separator: #FFF0
+bubble_chatSeparator, bubbleIn_separator: #5F63683F
+bubble_mediaReplyText_noWallpaper: #585858
+bubble_messageSelection: #91C4FFA1
+bubble_messageSelectionNoWallpaper, bubbleOut_textLinkPressHighlight, bubbleOut_waveformInactive, seekReady: #A2CDFF
+bubble_unread: #E8F3FF
+bubbleIn_time: #7A7C80
+bubbleOut_time: #636363
+chatListVerify, circleButtonPositive, headerBarCallIncoming, iconPositive, online: #18A81F
+fileGreen: #15B168
+fileRed: #FF4C4C
+headerButtonIcon: #FDFEFF
+headerIcon: #3C4043
+headerPickerText: #5550
+headerPlaceholder: #FFFFFF20
+headerRemoveBackground: #E52929AD
+inputInactive: #A8A8A8
+iv_pageAuthor: #A2A1A1
+iv_text: #505050
+placeholder: #FFFFFF0C
+promoContent: #F6F4F4
+shareSeparator: #FFFFFFFC
+statusBar: #FFFFFFC8
+statusBarLegacy: #FFFFFF2C
+statusBarLegacyContent: #FFFFFF29
+togglerActiveBackground: #BCD8F7
+togglerInactive: #F3F4F5
+togglerPositiveBackground: #1A73E857
+unread: #F9FDFF
